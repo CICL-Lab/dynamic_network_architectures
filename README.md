@@ -8,6 +8,6 @@ git clone https://github.com/CICL-Lab/dynamic_network_architectures
 ```
 
 ```bash
-cd path/MorphSeg/dynamic_network_architectures
+cd path/dynamic_network_architectures
 pip install -e .
 ```

@@ -11,3 +11,7 @@ git clone https://github.com/CICL-Lab/dynamic_network_architectures
 cd path/dynamic_network_architectures
 pip install -e .
 ```
+#Acknowledgement
+Part of the code is adapted from the following excellent works:
+- [nnUNet_dynamic-network-architectures](https://github.com/MIC-DKFZ/dynamic-network-architectures)
+We sincerely appreciate their contributions to the community and their remarkable efforts in open-sourcing their work.
